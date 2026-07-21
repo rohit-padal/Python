@@ -1,51 +1,37 @@
 
- Status Code:  200 Reason:  OK Url:  https://www.panciafelice.it/?gad_source=1&gad_campaignid=23687269198&gclid=CjwKCAjw08fSBhA7EiwAfbQTsJTvQO945QaAINsBhKDfQrktuEn2jc_6SIfZXrz0unlYPNoVThxZchoCZx4QAvD_BwE
-Pancia Felice San Pietro - Pancia Felice
+ Status Code:  200 Reason:  OK Url:  https://github.com/usernam121/respository
+GitHub - usernam121/respository · GitHub
 
- 71
-59 
+ 117
+0 
 
-Vai ai contenuti
-#content
+Skip to content
+#start-of-content
 
-https://www.panciafelice.it/
-Trattoria
-#
-Menu
-https://www.panciafelice.it/wp-content/uploads/2026/01/menu-pancia.pdf
-Prenota ora
-https://www.cooperto.link/e5f140
-Prenota ora
-https://www.cooperto.link/e5f140
-Galleria
-https://www.panciafelice.it/galleria-pancia-felice-san-pietro/
-Contattaci
-mailto:prenotazioni.vaman@gmail.com
-
-https://www.instagram.com/trattoria_panciafelice/
-
-https://www.facebook.com/trattoriapanciafelice
-
-
-https://www.panciafelice.it/wp-content/uploads/2023/08/PANCIAFELICE-logo-50-black.png
-https://www.panciafelice.it/wp-content/uploads/2023/08/PANCIAFELICE-logo-35-black.png
-https://www.panciafelice.it/wp-content/uploads/2023/03/social-02.png
-https://www.panciafelice.it/wp-content/uploads/2023/03/social-03.png
-https://www.panciafelice.it/wp-content/uploads/2023/03/social-02.png
-https://www.panciafelice.it/wp-content/uploads/2023/03/social-03.png
-//www.panciafelice.it/wp-content/plugins/revslider/sr6/assets/assets/dummy.png
-//www.panciafelice.it/wp-content/plugins/revslider/sr6/assets/assets/dummy.png
-//www.panciafelice.it/wp-content/plugins/revslider/sr6/assets/assets/dummy.png
-//www.panciafelice.it/wp-content/plugins/revslider/sr6/assets/assets/dummy.png
+/
+Sign in
+/login?return_to=https%3A%2F%2Fgithub.com%2Fusernam121%2Frespository
+GitHub CopilotWrite better code with AI
+https://github.com/features/copilot
+GitHub Copilot appDirect agents from issue to merge
+https://github.com/features/ai/github-app
+MCP RegistryNewIntegrate external tools
+https://github.com/mcp
+ActionsAutomate any workflow
+https://github.com/features/actions
+CodespacesInstant dev environments
+https://github.com/features/codespaces
+IssuesPlan and track work
+https://github.com/features/issues
+Code ReviewManage code changes
+https://github.com/features/code-review
 
 
-H1:  0
-H2:  2
-H3:  4
+
+
+H1:  4
+H2:  11
+H3:  7
 H4:  0
 H5:  0
 H6:  0
-Email:  panciafelicesanpietro@gmail.com
-Email:  panciafelicesanpietro@gmail.com
-Email:  prenotazioni.vaman@gmail.comVia
-Email:  prenotazioni.vaman@gmail.comVia
